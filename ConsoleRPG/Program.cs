@@ -34,7 +34,7 @@ namespace ConsoleRPG
             AppDomain.CurrentDomain.ProcessExit += new EventHandler(CurrentDomain_ProcessExit);
             Console.CancelKeyPress += new ConsoleCancelEventHandler(Console_CancelKeyPress);
 
-            StartScene();
+            
         }
 
         static void SaveData()
@@ -78,7 +78,6 @@ namespace ConsoleRPG
         static void StartScene()
         {
             {
-                Console.Clear();
                 Console.WriteLine("스파르타 마을에 오신 여러분 환영합니다.");
                 Console.WriteLine("이곳에서 던전으로 들어가기전 활동을 할 수 있습니다.");
                 Console.WriteLine("1. 상태 보기");
@@ -134,7 +133,7 @@ namespace ConsoleRPG
 
             static void ShowStatus()
             {
-
+                if(setting.health <= 0) setting.health = 0;
                 string levelUI = setting.level.ToString("D2");
                 Console.Clear();
                 Console.WriteLine("[정 보]");
@@ -151,7 +150,7 @@ namespace ConsoleRPG
                     float totalPower = setting.attack;
                     float totalArmor = setting.armor;
 
-                    foreach (var item in setting.equippedItems)
+                    foreach (string item in setting.equippedItems)
                     {
                         totalPower += GetAttackPower(item);
                         totalArmor += GetArmor(item);
@@ -248,7 +247,7 @@ namespace ConsoleRPG
                 }
                 else if (int.TryParse(answer, out int selectedNum) && selectedNum > 0 && selectedNum <= setting.myItems.Count)
                 {
-                    var selectedItem = setting.myItems[selectedNum - 1];
+                    string selectedItem = setting.myItems[selectedNum - 1];
                     ToggleEquipStatus(selectedItem);
                     Console.WriteLine(IsItemEquipped(selectedItem) ?
                         $"{wear}{selectedItem} | {GetItemInfo(selectedItem)}" :
@@ -482,7 +481,7 @@ namespace ConsoleRPG
                 float[] dungeonGoldReward = { 1000, 1700, 2500 };
                 float dungeonReward;
 
-                foreach (var item in setting.equippedItems)
+                foreach (string item in setting.equippedItems)
                 {
                     totalPower += GetAttackPower(item);
                     totalArmor += GetArmor(item);
@@ -704,7 +703,7 @@ namespace ConsoleRPG
 
             static bool HasEquippedItemType(string itemType)
             {
-                foreach (var equippedItem in setting.equippedItems)
+                foreach (string equippedItem in setting.equippedItems)
                 {
                     string type = CheckType(equippedItem);
                     if (type == itemType)
