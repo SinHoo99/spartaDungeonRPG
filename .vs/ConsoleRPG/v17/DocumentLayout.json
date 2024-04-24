@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tjdql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\ConsoleRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F031E2-E3B3-4379-99F1-B591158E8FA9}|ConsoleRPG\\ConsoleRPG.csproj|c:\\users\\tjdql\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\c#\\consolerpg\\consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F031E2-E3B3-4379-99F1-B591158E8FA9}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tjdql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\ConsoleRPG\\ConsoleRPG\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\tjdql\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C#\\ConsoleRPG\\ConsoleRPG\\Program.cs",
+              "RelativeToolTip": "ConsoleRPG\\Program.cs",
+              "ViewState": "AQIAALgCAAAAAAAAAAAAALQCAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:59:27.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

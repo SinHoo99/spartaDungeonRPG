@@ -1,0 +1,17 @@
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.exe
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.deps.json
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.runtimeconfig.json
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.dll
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.pdb
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfo.cs
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.dll
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\refint\ConsoleRPG.dll
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.pdb
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.genruntimeconfig.cache
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ref\ConsoleRPG.dll
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.AssemblyReference.cache
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.Up2Date
