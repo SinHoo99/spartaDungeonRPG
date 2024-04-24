@@ -15,3 +15,4 @@ C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\
 C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.AssemblyReference.cache
 C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.Up2Date
+C:\Users\tjdql\OneDrive\바탕 화면\C#\ConsoleRPG\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.sourcelink.json
