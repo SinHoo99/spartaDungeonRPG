@@ -215,6 +215,7 @@ namespace ConsoleRPG
                 }
                 else if (answer.ToLower() == "1")
                 {
+                    Console.Clear();
                     ManageInventory();
                 }
                 else
@@ -226,7 +227,7 @@ namespace ConsoleRPG
 
             static void ManageInventory()
             {
-                Console.Clear();
+                
                 string wear = "[E]";
                 Console.WriteLine("[아이템 목록]");
                 for (int i = 0; i < setting.myItems.Count; i++)
@@ -247,6 +248,7 @@ namespace ConsoleRPG
                 }
                 else if (int.TryParse(answer, out int selectedNum) && selectedNum > 0 && selectedNum <= setting.myItems.Count)
                 {
+                    Console.Clear();
                     string selectedItem = setting.myItems[selectedNum - 1];
                     ToggleEquipStatus(selectedItem);
                     Console.WriteLine(IsItemEquipped(selectedItem) ?
@@ -696,6 +698,7 @@ namespace ConsoleRPG
                     }
                     else
                     {
+                        Console.Clear();
                         Console.WriteLine("이미 같은 종류의 아이템을 장착하고 있습니다.");
                     }
                 }
